@@ -4,6 +4,7 @@ import Service from "./components/Service"
 import AppFeatures from "./components/AppFeatures"
 import Testimonials from "./components/Testimonials"
 import Personalized from "./components/Personalized"
+import Clients from "./components/Clients"
 
 function App() {
 	return (
@@ -14,6 +15,7 @@ function App() {
 			<AppFeatures />
 			<Testimonials />
 			<Personalized />
+			<Clients />
 		</>
 	)
 }

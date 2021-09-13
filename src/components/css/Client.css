@@ -1,0 +1,45 @@
+.clientsDiv {
+	padding: 1rem;
+	background-color: #1c1d1d;
+}
+
+.clientsTitle {
+	font-size: 1.8rem;
+	text-align: center;
+	color: #fff;
+	padding: 0 0 1rem 0;
+}
+
+.container {
+	height: 70px;
+	position: relative;
+	overflow: hidden;
+}
+
+.photobanner {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	white-space: nowrap;
+	animation: bannermove 5s linear infinite;
+	display: flex;
+	align-items: center;
+}
+
+.photobanner img {
+	margin: 0 0.5em;
+	height: 4rem;
+}
+
+@keyframes bannermove {
+	0% {
+		transform: translate(0, 0);
+	}
+    50% {
+        transform: translate(-25%, 0);
+    }
+	100% {
+		transform: translate(-50%, 0);
+	}
+}
