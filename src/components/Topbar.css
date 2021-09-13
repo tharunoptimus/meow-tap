@@ -1,0 +1,49 @@
+.sidebar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 100%;
+    background: #474646;
+    display: none;
+    z-index: 3;
+}
+
+.active {
+    display: block;
+    transition: all 1s ease;
+}
+
+.sidebar p {
+    color: white;
+}
+
+.header {
+    display: flex;
+    position: sticky;
+    top: 0;
+    justify-content: space-between;
+    padding: 0.3rem 1rem;
+    border-bottom: 1px solid #44444467;
+    box-sizing: border-box;
+}
+
+.heading {
+    font-size: 1.4rem;
+    margin: 0;
+    padding: 0.3rem;
+}
+
+.menuHolder {
+    cursor: pointer;
+    height: 3rem;
+    width: 3rem;
+    margin: auto 0 auto auto;
+    display: flex;
+    align-items: center;
+}
+
+.menuHolder img {
+    height: 2rem;
+    width: 2rem;
+}

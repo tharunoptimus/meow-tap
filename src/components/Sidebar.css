@@ -1,0 +1,79 @@
+.sidebarContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.sidebarContainer p {
+    cursor: pointer;
+    color: white;
+    font-size: 1.3rem;
+    margin: 0;
+}
+
+.sidebarContainer .sidebarHeading {
+    display: flex;
+    margin: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #7f7e7e;
+}
+
+.borderbottom {
+    color: #7f7e7e;
+}
+
+.closeButton {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.closeButton img {
+    height: 2.6rem;
+    width: 2.6rem;
+}
+
+.sidebarBody {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 0 1rem;
+}
+
+.sidebarBody p {
+    color: #7f7e7e;
+    margin: 0;
+    font-size: 1.3rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid #7f7e7e;
+}
+
+.sidebarBody p:first-child {
+    padding-top: 0;
+}
+
+.sidebarBody p:last-child {
+    border-bottom: none;
+}
+
+.sidebarFooter {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem 1rem 1rem;
+}
+
+.footerIcons {
+    height: 1rem;
+    width: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.bot {
+    height: 2.2rem;
+    width: 2.2rem;
+}
