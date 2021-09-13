@@ -1,0 +1,42 @@
+.footerContainer {
+	display: flex;
+	justify-content: space-between;
+	padding: 1rem 4rem;
+}
+
+.aboutSection {
+	display: flex;
+	flex-direction: column;
+	max-width: 700px;
+}
+
+.footerName {
+	font-size: 2rem;
+	margin: 0;
+	font-weight: 500;
+	padding: 0.3rem;
+}
+
+.footerText {
+	font-size: 0.9rem;
+	margin: 0;
+	padding: 1.4rem 0.3rem 0.3rem 0.3rem;
+}
+
+.contactSection {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+.followUs {
+	font-size: 1.4rem;
+	font-weight: 500;
+	margin: 0;
+	padding: 0.6rem;
+}
+
+.endFooterText {
+	padding: 0.1rem;
+	font-size: 0.9rem;
+}

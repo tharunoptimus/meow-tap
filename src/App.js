@@ -5,6 +5,7 @@ import AppFeatures from "./components/AppFeatures"
 import Testimonials from "./components/Testimonials"
 import Personalized from "./components/Personalized"
 import Clients from "./components/Clients"
+import Footer from "./components/Footer"
 
 function App() {
 	return (
@@ -16,6 +17,7 @@ function App() {
 			<Testimonials />
 			<Personalized />
 			<Clients />
+			<Footer />
 		</>
 	)
 }
