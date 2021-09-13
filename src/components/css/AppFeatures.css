@@ -1,0 +1,44 @@
+.slickercontainer {
+    overflow: hidden;
+    padding-top: 1rem;
+}
+
+.slickerContainerTitle {
+    font-size: 1.6rem;
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+}
+
+.slick-slider.slick-initialized {
+    height: max-content;
+    height: -moz-max-content;
+}
+
+.appFeaturesSliderItemHolder {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 2rem;
+    justify-content: center;
+}
+
+.mobileContainer {
+    height: 20rem;
+    width: 20rem;
+}
+
+.mobileContainer img {
+    height: 100%;
+    width: 100%;
+}
+
+.randomText {
+    max-width: 400px;
+    padding: 0.5rem 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.randomText p {
+    text-align: justify;
+}
