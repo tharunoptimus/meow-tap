@@ -2,6 +2,7 @@ import Topbar from "./components/Topbar"
 import Banner from "./components/Banner"
 import Service from "./components/Service"
 import AppFeatures from "./components/AppFeatures"
+import Testimonials from "./components/Testimonials"
 
 function App() {
 	return (
@@ -10,6 +11,7 @@ function App() {
 			<Banner />
 			<Service />
 			<AppFeatures />
+			<Testimonials />
 		</>
 	)
 }

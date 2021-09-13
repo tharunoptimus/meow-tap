@@ -1,0 +1,16 @@
+.testimonials {
+	background-color: #1c1d1d;
+}
+
+.testimonialsTitle {
+	padding: 1rem;
+	text-align: center;
+	font-size: 1.6rem;
+	color: #fffdfd;
+}
+
+.testimonialsContainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
