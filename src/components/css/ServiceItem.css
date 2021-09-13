@@ -1,0 +1,14 @@
+.service-item {
+    max-width: 300px;
+    padding: 1rem;
+}
+
+.service-item-icon {
+    height: 3rem;
+    width: 3rem;
+    padding: 1rem;
+    border-radius: 50%;
+    background: white;
+    display: flex;
+    margin: 0 auto;
+}
