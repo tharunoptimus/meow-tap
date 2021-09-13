@@ -3,6 +3,7 @@ import Banner from "./components/Banner"
 import Service from "./components/Service"
 import AppFeatures from "./components/AppFeatures"
 import Testimonials from "./components/Testimonials"
+import Personalized from "./components/Personalized"
 
 function App() {
 	return (
@@ -12,6 +13,7 @@ function App() {
 			<Service />
 			<AppFeatures />
 			<Testimonials />
+			<Personalized />
 		</>
 	)
 }
