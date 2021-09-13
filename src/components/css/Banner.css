@@ -1,0 +1,17 @@
+.bannerHolder {
+    position: relative;
+    margin: 0 auto;
+    height: 17rem;
+    width: 100%;
+    background: url(../images/banner.jpg) no-repeat center aliceblue;
+}
+
+.bannerHolder p {
+    margin: 0;
+    font-size: 3rem;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

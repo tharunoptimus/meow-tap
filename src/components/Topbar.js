@@ -1,6 +1,6 @@
-import hamburger from './Hamburger.svg';
+import hamburger from './svgs/Hamburger.svg';
 import Sidebar from './Sidebar.js';
-import "./Topbar.css"
+import "./css/Topbar.css"
 
 const Topbar = () => {
 

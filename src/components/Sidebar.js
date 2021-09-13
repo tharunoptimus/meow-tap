@@ -1,7 +1,7 @@
-import './Sidebar.css'
-import close from './close.svg'
-import bot from './bot.svg'
-import right from './right.svg'
+import './css/Sidebar.css'
+import close from './svgs/close.svg'
+import bot from './svgs/bot.svg'
+import right from './svgs/right.svg'
 
 const Sidebar = ({toggleSidebar}) => {
 

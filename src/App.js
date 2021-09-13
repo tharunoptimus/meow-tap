@@ -1,9 +1,13 @@
-import Topbar from "./components/Topbar";
+import Topbar from "./components/Topbar"
+import Banner from "./components/Banner"
 
 function App() {
-  return (
-    <Topbar />
-  );
+	return (
+		<>
+			<Topbar />
+			<Banner />
+		</>
+	)
 }
 
-export default App;
+export default App
