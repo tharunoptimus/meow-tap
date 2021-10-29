@@ -1,10 +1,10 @@
-# Demand Tap
+# Meow Tap
 
-- The prototype Website of the Demand Tap project.
-- The Figma Link is [Link](https://www.figma.com/file/GBk9RHZChtZPHL7krU3fCq/Demand-Tap?node-id=1%3A2)
+- The prototype Website of the Meow Tap project.
+- The Figma Link is [Link](https://www.figma.com/file/GBk9RHZChtZPHL7krU3fCq/Meow-Tap?node-id=1%3A2)
 - Hosted on Netlify
-- Link to the Github Repo is [Link](https://github.com/tharunoptimus/demand-tap.git)
-- Link to the website is [Link](https://demand-tap.netlify.app/)
+- Link to the Github Repo is [Link](https://github.com/tharunoptimus/Meow-tap.git)
+- Link to the website is [Link](https://Meow-tap.netlify.app/)
 ## Framework Used
 - [React](https://reactjs.org/)
 

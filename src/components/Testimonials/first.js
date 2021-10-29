@@ -19,7 +19,7 @@ const Testimonial = () => {
 					</div>
 					<div className="testimonialText">
 						<p>
-							Freshdigitals, Conversational AI is great for being
+							Meow Man's, Conversational AI is great for being
 							able to engage in a conversationg quickly. It's best
 							suited when you're able to lead your customer
 							journey through a positive sales experience. Its
@@ -29,11 +29,11 @@ const Testimonial = () => {
 					</div>
 				</div>
 				<div className="testimonyName">
-					<p>Rituraj Sinha</p>
+					<p>Dave</p>
 				</div>
 				<div className="testimonyStatus">
 					<p>
-						Digital marketing Head, Diamong Star Financial Services
+						Cato Tech Industry
 					</p>
 				</div>
 			</div>

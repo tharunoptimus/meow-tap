@@ -7,7 +7,7 @@ const Personalized = () => {
 				UPGRADE YOUR BUSINESS TO NEXT LEVEL
 			</p>
 			<p className="personalized-desc">
-				Using AI voice/text based demand generation systems to
+				Using AI voice/text based Meow generation systems to
 				understand the real intent of your customers and validate them
 				automatically and enable the contact center agents to act
 				swiftly with proper and personalized solutions

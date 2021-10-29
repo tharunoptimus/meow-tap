@@ -17,7 +17,7 @@ const Topbar = () => {
             </div>
             <div className="header">
                 <p className="heading">
-                    DEMAND TAP
+                    Meow Tap
                 </p>
                 <div className="menuHolder" onClick={toggleSidebar}>
                     <img src={hamburger} alt="hamburger" className="hamburger" />

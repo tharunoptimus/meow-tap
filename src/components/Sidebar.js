@@ -9,7 +9,7 @@ const Sidebar = ({toggleSidebar}) => {
     return (
         <div className="sidebarContainer">
             <div className="sidebarHeading">
-                <p>Demand Tap</p>
+                <p>Meow Tap</p>
                 <span className="closeButton" onClick={toggleSidebar}>
                     <img src={close} alt="close"/>
                 </span>

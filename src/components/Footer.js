@@ -5,7 +5,7 @@ const Footer = () => {
 	return (
 		<div className="footerContainer">
 			<div className="aboutSection">
-				<p className="footerName">DEMAND TAP</p>
+				<p className="footerName">MEOW TAP</p>
 				<p className="footerText">
 					lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
 					do eiusmod tempor incididunt ut labore et dolore magna

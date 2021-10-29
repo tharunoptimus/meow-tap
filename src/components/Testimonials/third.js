@@ -1,5 +1,5 @@
-import third from "../svgs/testimony/third.svg"
 import quote from "../svgs/testimony/quote.svg"
+import third from "../svgs/testimony/third.svg"
 import "../css/Testimony.css"
 
 const Testimonial = () => {
@@ -14,12 +14,12 @@ const Testimonial = () => {
 				<div className="testimonialTextContainer">
 					<div className="testimonyQuote">
 						<div className="testimonyQuoteDiv">
-							<img src={quote} alt="Meow" />
+							<img src={quote} alt="quote" />
 						</div>
 					</div>
 					<div className="testimonialText">
 						<p>
-							Freshdigital's Conversational AI makes it easy for
+							Meow Man's Conversational AI makes it easy for
 							us to share right information to the right people at
 							the right time based on their intent, and it makes
 							the whole customers sales and support experience
@@ -30,10 +30,10 @@ const Testimonial = () => {
 					</div>
 				</div>
 				<div className="testimonyName">
-					<p>Debashish Gupta</p>
+					<p>Alex</p>
 				</div>
 				<div className="testimonyStatus">
-					<p>Business Head, Rainbow Financial Services</p>
+					<p>Bull International</p>
 				</div>
 			</div>
 		</div>

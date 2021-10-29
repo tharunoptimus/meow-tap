@@ -19,7 +19,7 @@ const Testimonial = () => {
 					</div>
 					<div className="testimonialText">
 						<p>
-							As an overall system, Freshdigital's Conversational
+							As an overall system, Meow Man's Conversational
 							AI does a great job. I can see it being a valuable
 							tool at multiple leves of our organization, not just
 							from a sales and support prespectives. It helps to
@@ -29,10 +29,10 @@ const Testimonial = () => {
 					</div>
 				</div>
 				<div className="testimonyName">
-					<p>Mithun Patil</p>
+					<p>Steve</p>
 				</div>
 				<div className="testimonyStatus">
-					<p>Digital marketing Head, Mybike, bz</p>
+					<p>Digital marketing Head, Doggy Systems Arizona</p>
 				</div>
 			</div>
 		</div>
